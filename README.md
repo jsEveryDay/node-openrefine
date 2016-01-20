@@ -19,7 +19,7 @@ Milestone 1
 - Send new row(s) to the buffer, validate cloumn/data structure matching
 - Apply preset transformation and post reply back.
 - Fully clear cache and buffer and return to the original listening state.
-Possible integration with https://medialab.github.io/artoo/
+- Possible integration with https://medialab.github.io/artoo/
 
 Milestone 2
 - Build conditional operations dependent on validations
