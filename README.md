@@ -15,22 +15,23 @@ Or post xPaths of HTML data directly from the console of your browser and retrie
 --My Project
 
 Milestone 1
-> Get projects to actively listen as a REST service to post requests.
-> Send new row(s) to the buffer, validate cloumn/data structure matching
-> Apply preset transformation and post reply back.
-> Fully clear cache and buffer and return to the original listening state.
+- Get projects to actively listen as a REST service to post requests.
+- Send new row(s) to the buffer, validate cloumn/data structure matching
+- Apply preset transformation and post reply back.
+- Fully clear cache and buffer and return to the original listening state.
+Possible integration with https://medialab.github.io/artoo/
 
 Milestone 2
 - Build conditional operations dependent on validations
-> Start with CSV file > Apply transformation set to get column names > Post column names for comparison
-> If column names match X then apply transformation set Y
+- Start with CSV file > Apply transformation set to get column names > Post column names for comparison
+- If column names match X then apply transformation set Y
 (think of a company who has to build so many reports everyday, your best bet would be to assign transformations based on filename imported, however transformations based on conditional specifications allow for a much faulty free and universal resource processing)
 
 Milestone 3
 - Extend useability of the UI experience of other additional features of the system
-> Explore the possibility of using Facet's data results in other interfaces
-> Could clusters or facets be used in ORM based systems?
-> Would a full integration of Facets be possible for ng-grid or KendoUI, Infragistics or DHTMLX?
+- Explore the possibility of using Facet's data results in other interfaces
+- Could clusters or facets be used in ORM based systems?
+- Would a full integration of Facets be possible for ng-grid or KendoUI, Infragistics or DHTMLX?
 
 
 ## Usage
